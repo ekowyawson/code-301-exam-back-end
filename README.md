@@ -12,7 +12,7 @@ Each application is intended to be operated and tested independently, while also
 - Fix the bugs in the client.
 - Add **DELETE** functionality on both the server and client.
   - The client app has a "Delete Button" that is there but not wired up. Wire it up.
-- Change the styling of the items list.
+- **Change the styling of the items list.**
 
 ### The API Server
 
@@ -89,8 +89,8 @@ How will you know that you've found them all? The tests will all pass!
 
 ### Styling - 25 Points
 
-- 15 points: functional use of Accordion component.
-- 10 points: removal of all Table related elements.
+- **15 points: functional use of Accordion component.**
+- **10 points: removal of all Table related elements.**
 
 ## STRETCH GOALS
 
